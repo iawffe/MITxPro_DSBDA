@@ -1,0 +1,4 @@
+{"type":"settings","kernel":"python3","backend_state":"running","trust":true,"kernel_state":"idle"}
+{"type":"file","last_load":1509597019974}
+{"exec_count":1,"start":1509597056679,"input":"import torch","state":"done","pos":0,"type":"cell","end":1509597056849,"id":"911bad","kernel":"python3"}
+{"type":"cell","id":"0f89ba","pos":1,"input":""}
